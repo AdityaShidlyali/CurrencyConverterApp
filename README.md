@@ -23,11 +23,11 @@
 * Hilt framework is used for dependency injection.
 
 ## Tech stack used
-- [Room DB](https://developer.android.com/training/data-storage/room) - Local Persistant Database for Application.
+- [Retrofit 2](https://square.github.io/retrofit/) - REST client for making network calls.
 - [Coroutines](https://developer.android.com/kotlin/coroutines) - For asynchronous operations.
 - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - Lifecycle aware library to manage data observing the lifecycle of licecycle owner.
-- [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) - State holder class to hold observable data.
-- [Koin DI](https://insert-koin.io/docs/reference/koin-android/start) - Lightweight Dependency Injection Framework for Android.
+- [Hilt-Dagger](https://dagger.dev/hilt/) - Recommended Dependency Injection Framework for Android.
+- [Kotlin Flows](https://developer.android.com/kotlin/flow) - Emits sequence of values or data, and consumer asynchronously consumes these values or data.
 
 ## Licence
 ```
