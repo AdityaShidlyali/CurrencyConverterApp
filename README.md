@@ -17,6 +17,8 @@
 * view
 * viewmodels
 
+<img src="https://github.com/AdityaShidlyali/CurrencyConverterApp/blob/main/images/mvvm.png" />
+
 ## Android :heart: Koltin
 * Retrofit is used with ScalarConverters to get the JSON response as the string.
 * Default repository pattern is used for effective error handling and ease of testing by providing mock repositories.
