@@ -12,7 +12,6 @@ import com.adityashidlyali.currencyconverter.databinding.ActivityMainBinding
 import com.adityashidlyali.currencyconverter.helper.EndPoints
 import com.adityashidlyali.currencyconverter.viewmodels.CurrencyViewModel
 import dagger.hilt.android.AndroidEntryPoint
-import kotlinx.coroutines.flow.collect
 
 @AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
